@@ -1,0 +1,9 @@
+{
+    "name": "com.example.nativeapp",
+    "description": "Native messaging example",
+    "path": "D:\\local-work\\win_file_reader_chrome_extension\\target\\release\\win_file_reader_chrome_extension.exe",
+    "type": "stdio",
+    "allowed_origins": [
+      "chrome-extension://hmaclefmmjcdnhfabbedepmmfpkpofoe/"
+    ]
+  }  

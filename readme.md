@@ -1,0 +1,1 @@
+REG ADD "HKCU\Software\Google\Chrome\NativeMessagingHosts\com.example.nativeapp" /ve /t REG_SZ /d "D:\local-work\win_file_reader_chrome_extension\com.example.nativeapp.json" /f
